@@ -1,0 +1,9 @@
+bash-completion
+wget
+vim
+curl
+unzip
+openssh-client
+jq
+python3
+pip
